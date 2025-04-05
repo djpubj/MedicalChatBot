@@ -37,3 +37,38 @@ This application is structured around a two-phase pipeline:
 
 ---
 
+
+> ❗ **Important:** Don't forget to enter your **`PINECONE_API_KEY`** and **`INDEX_NAME`** in the `.env` file before running the application.
+
+## ⚙️ Setup Instructions
+
+Follow these steps to get the project running locally:
+
+### 1. 📥 Clone the Repository
+
+```bash
+git clone https://github.com/djpubj/PDF-ChatBot.git
+cd ChatBot
+```
+
+### 2. 🧪 Create Virtual Environment
+```bash
+python -m venv .venv
+```
+
+### 3. ▶️ Activate the Environment
+#### On Windows:
+```bash
+.venv\Scripts\activate
+```
+#### On macOS/Linux:
+```bash
+source .venv/bin/activate
+```
+### 4. 📦 Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+# OR
+You can also directly run the notebook with the `.venv` environment activated.
