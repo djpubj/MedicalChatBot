@@ -1,0 +1,10 @@
+langchain==0.1.16
+ctransformers==0.2.27
+sentence-transformers==2.2.2
+pinecone-client==3.0.0
+pypdf==4.1.0
+python-dotenv==1.0.1
+langchain-pinecone==0.0.3
+langchain-community==0.0.34
+langchain-core==0.1.33
+langchain-huggingface==0.0.5
