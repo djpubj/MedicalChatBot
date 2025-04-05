@@ -38,7 +38,7 @@ This application is structured around a two-phase pipeline:
 ---
 
 
-> ❗ **Important:** Don't forget to enter your **`PINECONE_API_KEY`** and **`INDEX_NAME`** in the `.env` file before running the application.
+> ❗ **Important:** Don't forget to enter your **`PINECONE_API_KEY`** and **`INDEX_NAME`** in the `trails.ipynb` file before running the application.
 
 ## ⚙️ Setup Instructions
 
